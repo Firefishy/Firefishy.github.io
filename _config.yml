@@ -1,3 +1,7 @@
 theme: jekyll-theme-minimal
 title: Welcome to Firefishy's homepage
 description: Firefishy's musing on technology and OpenStreetMap
+header_pages:
+  - about.md
+
+show_downloads: false
